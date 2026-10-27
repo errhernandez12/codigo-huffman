@@ -1,0 +1,23 @@
+# Ejecutables
+comprimir
+descomprimir
+*.out
+*.exe
+a.out
+
+# Objetos y archivos intermedios
+*.o
+*.obj
+*.d
+
+# Archivos generados al probar
+*.hfm
+recuperado*
+*.huf
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
